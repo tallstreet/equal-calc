@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/equal-calc/static/js/2.75120274.chunk.js"
   },
   {
-    "revision": "fbb7b81f01fc335cc6a4ee44f193863a",
+    "revision": "76df922d75aa01302932840946bc47b4",
     "url": "/equal-calc/index.html"
   }
 ];
