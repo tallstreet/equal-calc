@@ -2,6 +2,8 @@ A in browser calculator that works offline first.
 
 Visit [https://www.tallstreet.com/equal-calc/](https://www.tallstreet.com/equal-calc/)
 
+Version number of challenge: 627d7be039e0085025a51d47e42bdd970409ec1c
+
 ## Available Scripts
 
 In the project directory, you can run:
